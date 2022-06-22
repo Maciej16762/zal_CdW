@@ -1,2 +1,2 @@
 # zal_CdW
-Maciej 16762 Grupa C3
+Maciej 16762 C3
